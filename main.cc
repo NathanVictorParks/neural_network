@@ -1,4 +1,5 @@
 #include <iostream>
+#include "node.h"
 #include "layer.h"
 
 int main() {
